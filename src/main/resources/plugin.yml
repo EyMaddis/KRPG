@@ -1,0 +1,8 @@
+name: KRPG
+version: ${project.version}
+main: de.kaleydra.krpg.KRPG
+depend: [LiCETIA]
+commands:
+    krpg:
+        help: krpg control
+        usage: /<command>
